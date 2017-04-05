@@ -1,0 +1,26 @@
+[
+
+    {
+        "name": "Vertical Spread",
+        "className": "VerticalSpreadStrategy",
+        "vtSymbol": "m1709-C-2650,m1709-C-2700",
+		"Symbol1": "m1709-C-2650",
+		"Symbol2": "m1709-C-2700"
+    },
+    {
+        "name": "Butterfly",
+        "className": "ButterflyStrategy",
+        "vtSymbol": "m1709-C-2650,m1709-C-2700,m1709-C-2750",
+		"Symbol1": "m1709-C-2650",
+		"Symbol2": "m1709-C-2700",
+        "Symbol3": "m1709-C-2750"
+    },
+    {
+        "name": "Conversion",
+        "className": "ConversionStrategy",
+        "vtSymbol": "m1709-C-2650,m1709-P-2650,m1709",
+		"callSymbol": "m1709-C-2650",
+		"putSymbol": "m1709-P-2650"
+    }
+
+]
