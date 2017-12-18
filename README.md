@@ -1,7 +1,13 @@
+### Main Modification:
+
+This system was developed based on the most popular open-source trading system in China - vn.py, for monitoring the momentary risk-free arbitrage opportunities of exchange options. The main change was to modify the initial system supporting options arbitrage and add several option risk-free arbitrage strategies, including vertical spreads, butterfly spreads, conversion arbitrage, etc. In details, the system was composed with Python and C++, compatible with Linux Ubuntu, supporting Comprehensive Transaction Platform (CTP) and MongoDB.
+
+###### @email: jinjie.xu@whu.edu.cn
+###### If you have any question, please feel free to contact me. Thank you~
+
+
+
 # vn.py - 基于python的开源交易平台开发框架
-### 主要修改
-针对期权和期货的套利功能增加相应的套利引擎和策略算法
-######@email: jessexu@outlook.com
 
 ### 项目捐赠
 
